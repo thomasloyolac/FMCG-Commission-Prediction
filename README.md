@@ -1,6 +1,10 @@
 # FMCG-Commission-Prediction
-This is a regression problem ,i did a lot data cleaning and find the best features (feature selection) on this data, by using neural networks and machine learning models(linear,non-linear) ,i solve this problem with minimum loss(RMSE) , 
+This is a regression problem ,i did a lot data cleaning and find the best features (feature selection) on this data, by using neural networks and machine learning models(linear,non-linear) ,i solve this problem with minimum loss(RMSE) 
+
+
 SKILLS EXPLORED:  Tensorflow,Keras,sklearn,pandas,numpy,seaborn,matplotlib
+
+
 Problem statement:
 This challenge is aimed at analysing different parameters of a Food and Beverage company.
 The company tries to understand the interaction between various products, brands, outlets, 
